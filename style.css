@@ -46,7 +46,6 @@ h1 {
   }
 
   .image-container {
-    /*Top and botton 10px, left and right 30% so that means in total 60% margin and 40% image*/
     margin: 10px 30%;
   }
 
